@@ -1,4 +1,4 @@
-** Add a title here **
+Git Introduction
 
 Git is software for tracking changes in any set of files,
 usually used for coordinating work among programmers collaboratively
@@ -12,5 +12,5 @@ is a full-fledged repository with complete history and full
 version-tracking abilities, independent of network access or a central
 server. (Excerpted from Wikipedia)
 
-** Type your name here **
-** Add a date here **
+Jolin Li
+2022/8/29
